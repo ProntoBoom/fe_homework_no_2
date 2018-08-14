@@ -1,2 +1,2 @@
-# fe_homework_no_2
+# FE Homework 2
 Homework to improve PHP skill
